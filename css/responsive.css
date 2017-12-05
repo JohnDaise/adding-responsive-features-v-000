@@ -35,4 +35,11 @@
   }
 }
 
-@media only screen (max-width: 800px)
+@media only screen and (max-width: 800px){
+
+    #navbar nav a{
+
+      font-size:
+    }
+
+}
