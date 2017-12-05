@@ -74,4 +74,10 @@
 
 }
 
-@media only screen (max-width: 700px)
+@media only screen (max-width: 700px) {
+
+  #navbar nav a {
+    display: none;
+
+  }
+}
