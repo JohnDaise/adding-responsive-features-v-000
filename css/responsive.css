@@ -62,8 +62,9 @@
     border: 0;
   }
 
-  #details div{
-    
+  #details div {
+    height: auto;
+
   }
 
 }
