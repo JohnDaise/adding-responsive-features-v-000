@@ -73,3 +73,5 @@
     column-count: 1;
 
 }
+
+@media only screen (max-width: 700px)
