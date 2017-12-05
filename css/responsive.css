@@ -37,9 +37,9 @@
 
 @media only screen and (max-width: 800px){
 
-    #navbar nav a{
+    #navbar nav a {
 
-      font-size:
+      font-size: 0.9em;
     }
 
 }
